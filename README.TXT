@@ -11,8 +11,11 @@ JAR files manifest file (MANIFEST.MF).
 To run the project from the command line, go to the dist folder and
 type the following:
 
-java -jar "pswd-hashing.PSTRADING.jar" 
-
+java -jar "pswd-hashing.PSTRADING.jar"
+=================================================================================
+For all other other projects's JAR files, replace the "pswd-hashing.PSTRADING.jar" with
+your project's name. If you project name is example, you run: java -jar "example.jar"
+=================================================================================
 To distribute this project, zip up the dist folder (including the lib folder)
 and distribute the ZIP file.
 
