@@ -1,0 +1,2 @@
+# PS-Trading-LLC-Software-Distributions
+This is a Database Application together with a Web Applecation using MVC sometimes referred to as "CRUDE application" to use in any project or use it as a stand alone web application the egister customer information, and can add new customers and save, delete existing customers, modify or update existing customers' information, and read any customer's information when answering some questions.This is the most secured high level Web+Database application from PS-Trading-LLC-Software-Distributions. First created by Phillimon Shumbusho
